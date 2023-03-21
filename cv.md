@@ -68,7 +68,7 @@ Some free courses:
 * Result School (JavaScript marathon)
 * ITlogia UX/UI Start (Figma Basic)
 
-![](img/sertificate1.png "Certificate")  ![](img/sertificate1.png "Certificate") 
+![](img/sertificate1.png "Certificate")  ![](img/sertificate2.png "Certificate") 
 
 ---
 
