@@ -5,8 +5,11 @@
 ## Contacts
 
 Location: Astana, Kazakhstan
+
 Discord: Anna Sadovaya(@AnnaS86)
+
 GitHub: AnnaS86
+
 Telegram: @Ancha_New
 
 ---
@@ -52,6 +55,7 @@ const quarterOf = (month) => {
 
 ## Experience
 [CSS Bayan](https://github.com/AnnaS86/cssBayan/blob/gh-pages/cssBayan/index.html "Project CSS Bayan"). This is an educational project, in which I learned how to make an accordion element and an adaptive layout.
+
 [Git & Markdown](https://annas86.github.io/rsschool-cv/cv "Project CV-1"). This is an educational project where I make my CV by used Markdown.
 
 ---
@@ -64,13 +68,14 @@ Some free courses:
 * Result School (JavaScript marathon)
 * ITlogia UX/UI Start (Figma Basic)
 
+![](img/sertificate1.png "Certificate")  ![](img/sertificate1.png "Certificate") 
+
 ---
 
 ## Languages
 Russian: native
-English: A2. I have some speaking practice when I am abroad.
 
----
+English: A2. I have some speaking practice when I am abroad.
 
 
 
